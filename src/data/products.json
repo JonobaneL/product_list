@@ -1,0 +1,218 @@
+[
+  {
+    "id": "1",
+    "name": "Розумна LED лампочка",
+    "slug": "rozumna-led-lampochka",
+    "category": {
+      "category_slug": "smart-home",
+      "name": "Розумний дім"
+    },
+    "image_url": "https://content1.rozetka.com.ua/goods/images/big/295214451.jpg",
+    "price": 12.99,
+    "description": "Wi-Fi лампочка, яка підтримує мільйони кольорів і режими затемнення, керується через мобільний додаток."
+  },
+  {
+    "id": "2",
+    "name": "Бездротові Bluetooth навушники",
+    "slug": "bezdrotovi-bluetooth-navushnyky",
+    "category": {
+      "category_slug": "audio",
+      "name": "Аудіо"
+    },
+    "image_url": "https://content.rozetka.com.ua/goods/images/big/365137069.jpg",
+    "price": 59.99,
+    "description": "Компактні та легкі Bluetooth навушники з шумозаглушенням і довготривалим часом роботи від батареї."
+  },
+  {
+    "id": "3",
+    "name": "4K UHD Смарт телевізор",
+    "slug": "4k-uhd-smart-tv",
+    "category": {
+      "category_slug": "television",
+      "name": "Телевізори"
+    },
+    "image_url": "https://content1.rozetka.com.ua/goods/images/big/426582717.jpg",
+    "price": 499.99,
+    "description": "55-дюймовий 4K Ultra HD телевізор із вбудованими стрімінговими додатками та голосовим управлінням."
+  },
+  {
+    "id": "4",
+    "name": "Бездротова зарядка",
+    "slug": "bezdrotova-zaryadka",
+    "category": {
+      "category_slug": "accessories",
+      "name": "Аксесуари"
+    },
+    "image_url": "https://content.rozetka.com.ua/goods/images/big/35016401.jpg",
+    "price": 29.99,
+    "description": "Стильна бездротова зарядка, сумісна з пристроями, що підтримують Qi, з функцією швидкої зарядки."
+  },
+  {
+    "id": "5",
+    "name": "Навушники з шумозаглушенням",
+    "slug": "navushnyky-z-shumozaglushennyam",
+    "category": {
+      "category_slug": "audio",
+      "name": "Аудіо"
+    },
+    "image_url": "https://content.rozetka.com.ua/goods/images/big/439801951.jpg",
+    "price": 200,
+    "description": "Накладні навушники з активним шумозаглушенням, Bluetooth-з'єднанням і 30-годинним часом роботи від батареї."
+  },
+  {
+    "id": "6",
+    "name": "Розумна камера безпеки для дому",
+    "slug": "rozumna-kamera-bezpeky-dlya-domu",
+    "category": {
+      "category_slug": "security",
+      "name": "Безпека"
+    },
+    "image_url": "https://content1.rozetka.com.ua/goods/images/big/23032949.jpg",
+    "price": 89,
+    "description": "Камера безпеки з роздільною здатністю 1080p HD, детекцією руху, нічним баченням і двостороннім аудіо, сумісна з Alexa та Google Assistant."
+  },
+  {
+    "id": "7",
+    "name": "Портативний павербанк",
+    "slug": "portatyvnyy-paverbank",
+    "category": {
+      "category_slug": "mobile-accessories",
+      "name": "Аксесуари для мобільних пристроїв"
+    },
+    "image_url": "https://konvektor-ukraine.in.ua/image/cache/webp/catalog/poverbanky/joyroom-power-bank-black-20000mah/joyroom-power-bank-black-20000mah-700x700.webp",
+    "price": 23,
+    "description": "Портативний павербанк великої ємності з двома USB-портами для зарядки кількох пристроїв на ходу."
+  },
+  {
+    "id": "8",
+    "name": "Розумний термостат",
+    "slug": "rozumnyy-termostat",
+    "category": {
+      "category_slug": "smart-home",
+      "name": "Розумний дім"
+    },
+    "image_url": "https://content.rozetka.com.ua/goods/images/big/174836614.jpg",
+    "price": 160,
+    "description": "Розумний термостат, який вивчає ваші уподобання та автоматично регулює температуру, економлячи енергію."
+  },
+  {
+    "id": "9",
+    "name": "Bluetooth колонка",
+    "slug": "bluetooth-kolonka",
+    "category": {
+      "category_slug": "audio",
+      "name": "Аудіо"
+    },
+    "image_url": "https://newtime.ua/upload/2023-06/portativna-kolonka-jbl-charge-5-wi-fi-black-jblcharge5wifiblk.440x.webp",
+    "price": 43,
+    "description": "Портативна Bluetooth колонка з глибоким басом, 360° звуком і до 12 годин роботи від батареї."
+  },
+  {
+    "id": "10",
+    "name": "Розумний вимикач світла",
+    "slug": "rozumnyy-vymykach-svitla",
+    "category": {
+      "category_slug": "smart-home",
+      "name": "Розумний дім"
+    },
+    "image_url": "https://homehub.com.ua/images/thumbnails/1223/1000/detailed/4/aqara-zigbee-single-light-switch-65.1000x.jpg",
+    "price": 34.99,
+    "description": "Розумний вимикач світла, який дозволяє керувати освітленням за допомогою голосу або смартфона."
+  },
+  {
+    "id": "11",
+    "name": "Бездротова ігрова миша",
+    "slug": "bezdrotova-igrova-mysha",
+    "category": {
+      "category_slug": "computer-accessories",
+      "name": "Комп'ютерні комплектуючі"
+    },
+    "image_url": "https://images.prom.ua/3575054757_w640_h640_besprovodnaya-myshka-hoco.jpg",
+    "price": 78,
+    "description": "Ергономічна бездротова ігрова миша з налаштовуваними кнопками, RGB підсвіткою і ультра швидкою реакцією."
+  },
+  {
+    "id": "12",
+    "name": "Розумний замок для дверей",
+    "slug": "rozumnyy-zamok-dlya-dverey",
+    "category": {
+      "category_slug": "security",
+      "name": "Безпека"
+    },
+    "image_url": "https://cdn.27.ua/sc--media--prod/default/10/ce/48/10ce4807-e377-4b88-bd2b-c628e5595288.jpeg",
+    "price": 130,
+    "description": "Безключовий розумний замок для дверей з розпізнаванням відбитків пальців, управлінням через додаток і функцією автоматичного блокування."
+  },
+  {
+    "id": "13",
+    "name": "USB-C хаб",
+    "slug": "usb-c-hub",
+    "category": {
+      "category_slug": "computer-accessories",
+      "name": "Комп'ютерні комплектуючі"
+    },
+    "image_url": "https://cdn.sandberg.world/products/images/lg/136-50_lg.jpg.webp",
+    "price": 49.99,
+    "description": "Багатопортовий USB-C хаб з HDMI, USB-A, SD-кардрідером і Ethernet портом, сумісний з більшістю ноутбуків."
+  },
+  {
+    "id": "14",
+    "name": "Розумна світлодіодна стрічка",
+    "slug": "rozumna-svitlodiodna-strichka",
+    "category": {
+      "category_slug": "smart-home",
+      "name": "Розумний дім"
+    },
+    "image_url": "https://cdn.27.ua/sc--media--prod/default/29/9e/4b/299e4b6b-6f48-4599-9c7d-f1ff9d197ef0.jpeg",
+    "price": 60,
+    "description": "Гнучка світлодіодна стрічка, що змінює колір, яку можна керувати через додаток або голосового помічника, ідеально підходить для декоративного підсвічування."
+  },
+  {
+    "id": "15",
+    "name": "1080p HD Вебкамера",
+    "slug": "1080p-hd-webkamera",
+    "category": {
+      "category_slug": "computer-accessories",
+      "name": "Комп'ютерні комплектуючі"
+    },
+    "image_url": "https://tirex.ua/image/catalog/products/1/71/U0150771-0.jpg",
+    "price": 85,
+    "description": "Вебкамера високої чіткості з автофокусом, вбудованим мікрофоном і функцією plug-and-play, ідеальна для відеоконференцій."
+  },
+  {
+    "id": "16",
+    "name": "Розумна розетка",
+    "slug": "rozumna-rozetka",
+    "category": {
+      "category_slug": "smart-home",
+      "name": "Розумний дім"
+    },
+    "image_url": "https://i.citrus.world/imgcache/size_800/uploads/shop/6/0/60884b5638f37a7479120d8ef4d7a082.jpg",
+    "price": 22,
+    "description": "Компактна розумна розетка, яка дозволяє керувати приладами дистанційно через додаток або голосові команди."
+  },
+  {
+    "id": "17",
+    "name": "Портативний проектор",
+    "slug": "portatyvnyy-proektor",
+    "category": {
+      "category_slug": "home-appliances",
+      "name": "Домашні прилади"
+    },
+    "image_url": "https://cdn.27.ua/sc--media--prod/default/d6/81/7a/d6817a48-8ce1-4dcb-8028-4e1942789f20.jpg",
+    "price": 299.99,
+    "description": "Портативний проектор з роздільною здатністю 1080p, вбудованими динаміками і HDMI входом для перегляду фільмів і презентацій на ходу."
+  },
+  {
+    "id": "18",
+    "name": "Розумний робот-пилосос",
+    "slug": "rozumnyy-robot-pylosos",
+    "category": {
+      "category_slug": "home-appliances",
+      "name": "Домашні прилади"
+    },
+    "image_url": "https://i.citrus.world/imgcache/size_800/uploads/shop/b/1/b1411463b6ef0cd3b73fe22eb1885c37.jpg",
+    "price": 340,
+    "description": "Робот-пилосос з розумною навігацією, голосовим управлінням і потужним всмоктуванням для легкого прибирання."
+  }
+]

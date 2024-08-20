@@ -1,0 +1,37 @@
+[
+  {
+    "id": "category1",
+    "name": "Розумний дім",
+    "slug": "smart-home"
+  },
+  {
+    "id": "category2",
+    "name": "Аудіо",
+    "slug": "audio"
+  },
+  {
+    "id": "category3",
+    "name": "Телевізори",
+    "slug": "television"
+  },
+  {
+    "id": "category4",
+    "name": "Аксесуари",
+    "slug": "accessories"
+  },
+  {
+    "id": "category5",
+    "name": "Безпека",
+    "slug": "security"
+  },
+  {
+    "id": "category6",
+    "name": "Комп'ютерні комплектуючі",
+    "slug": "computer-accessories"
+  },
+  {
+    "id": "category7",
+    "name": "Домашні прилади",
+    "slug": "home-appliances"
+  }
+]
