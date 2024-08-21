@@ -1,10 +1,13 @@
 "use client";
-
 import CheckboxList from "./ui/CheckboxList";
-import categories from "../data/categories.json";
 import { useFiltersContext } from "@/context/filtersContext";
+import { ParamType } from "@/types/paramsTypes";
 
-const CategoryFilters = () => {
+type FilterProps = {
+  categories: ParamType[];
+};
+
+const CategoryFilters = ({ categories }: FilterProps) => {
   const { params, updateParam } = useFiltersContext();
   return (
     <div>

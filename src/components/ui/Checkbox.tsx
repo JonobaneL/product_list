@@ -20,7 +20,7 @@ const Checkbox = ({ label, changeHandler, checked = false }: CheckboxProps) => {
           onChange={() => {}}
         />
         <Image
-          src="/check-icon.svg"
+          src="/assets/check-icon.svg"
           width={12}
           height={12}
           className="size-3 absolute opacity-0 peer-checked:opacity-100"

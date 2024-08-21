@@ -22,7 +22,7 @@ const Accordion = ({
       >
         <p>{header}</p>
         <Image
-          src="/arrow.svg"
+          src="/assets/arrow.svg"
           alt="arrow"
           width={24}
           height={24}

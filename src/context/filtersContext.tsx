@@ -37,6 +37,7 @@ const FiltersProvider = ({ children }: ProviderProps) => {
       setParams((p) => ({ ...p, [key]: deserialize(key, item) }));
     });
   }, []);
+
   const updateSearchParams = useCallback(
     (paramName: string, newValue: string[]) => {
       setParams((p) => ({ ...p, [paramName]: newValue }));
@@ -65,7 +66,7 @@ const FiltersProvider = ({ children }: ProviderProps) => {
   );
   const updateParam = (paramName: string, value: string | string[]) => {
     if (Array.isArray(value)) {
-      updateSearchParams(paramName, [value.join("-")]);
+      updateSearchParams(paramName, value.length > 0 ? [value.join("-")] : []);
       return;
     }
     if (params[paramName]?.includes(value)) {
@@ -77,6 +78,7 @@ const FiltersProvider = ({ children }: ProviderProps) => {
     }
     updateSearchParams(paramName, [...(params[paramName] || []), value]);
   };
+
   const removeParam = (paramName: string, value: string) => {
     updateSearchParams(
       paramName,

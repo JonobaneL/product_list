@@ -7,7 +7,7 @@ export type ProductParams = {
   image_url: string;
   price: number;
 };
-export type CategoryParams = {
-  category_slug: string;
+type CategoryParams = {
+  slug: string;
   name: string;
 };

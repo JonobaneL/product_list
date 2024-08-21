@@ -1,28 +1,26 @@
 import ProductList from "@/components/ProductsList";
-import Accordion from "@/components/ui/Accordion";
+import Filters from "@/components/Filters";
+import FiltersBar from "@/components/FiltersBar";
+import { Suspense } from "react";
+import { SearchParamsType } from "@/types/searchParamsTypes";
 
-import CategoryFilters from "@/components/CategoryFilters";
-import PriceFilters from "@/components/PriceFilters";
+type HomeProps = {
+  searchParams: SearchParamsType;
+};
 
-export default function Home() {
+export default function Home({ searchParams }: HomeProps) {
   return (
-    <main className="w-full h-full flex justify-center px-20">
+    <main className="w-full h-full flex justify-center px-6 sm:px-10 lg:px-20">
       <div className="max-w-big-screen h-full w-full py-8">
+        <FiltersBar />
         <section className="flex gap-10">
-          <div className="w-full max-w-[280px]">
-            <Accordion header="Категорії">
-              <div className="p-2">
-                <CategoryFilters />
-              </div>
-            </Accordion>
-            <Accordion header="Ціна" defaultOpen={true}>
-              <div className="p-2">
-                <PriceFilters />
-              </div>
-            </Accordion>
+          <div className="w-full max-w-[280px] hidden lg:block ">
+            <Filters />
           </div>
           <div className="w-full">
-            <ProductList />
+            <Suspense fallback={<p>Loading...</p>}>
+              <ProductList searchParams={searchParams} />
+            </Suspense>
           </div>
         </section>
       </div>

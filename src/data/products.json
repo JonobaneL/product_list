@@ -4,7 +4,7 @@
     "name": "Розумна LED лампочка",
     "slug": "rozumna-led-lampochka",
     "category": {
-      "category_slug": "smart-home",
+      "slug": "smart-home",
       "name": "Розумний дім"
     },
     "image_url": "https://content1.rozetka.com.ua/goods/images/big/295214451.jpg",
@@ -16,7 +16,7 @@
     "name": "Бездротові Bluetooth навушники",
     "slug": "bezdrotovi-bluetooth-navushnyky",
     "category": {
-      "category_slug": "audio",
+      "slug": "audio",
       "name": "Аудіо"
     },
     "image_url": "https://content.rozetka.com.ua/goods/images/big/365137069.jpg",
@@ -28,7 +28,7 @@
     "name": "4K UHD Смарт телевізор",
     "slug": "4k-uhd-smart-tv",
     "category": {
-      "category_slug": "television",
+      "slug": "television",
       "name": "Телевізори"
     },
     "image_url": "https://content1.rozetka.com.ua/goods/images/big/426582717.jpg",
@@ -40,7 +40,7 @@
     "name": "Бездротова зарядка",
     "slug": "bezdrotova-zaryadka",
     "category": {
-      "category_slug": "accessories",
+      "slug": "accessories",
       "name": "Аксесуари"
     },
     "image_url": "https://content.rozetka.com.ua/goods/images/big/35016401.jpg",
@@ -52,7 +52,7 @@
     "name": "Навушники з шумозаглушенням",
     "slug": "navushnyky-z-shumozaglushennyam",
     "category": {
-      "category_slug": "audio",
+      "slug": "audio",
       "name": "Аудіо"
     },
     "image_url": "https://content.rozetka.com.ua/goods/images/big/439801951.jpg",
@@ -64,7 +64,7 @@
     "name": "Розумна камера безпеки для дому",
     "slug": "rozumna-kamera-bezpeky-dlya-domu",
     "category": {
-      "category_slug": "security",
+      "slug": "security",
       "name": "Безпека"
     },
     "image_url": "https://content1.rozetka.com.ua/goods/images/big/23032949.jpg",
@@ -76,7 +76,7 @@
     "name": "Портативний павербанк",
     "slug": "portatyvnyy-paverbank",
     "category": {
-      "category_slug": "mobile-accessories",
+      "slug": "mobile-accessories",
       "name": "Аксесуари для мобільних пристроїв"
     },
     "image_url": "https://konvektor-ukraine.in.ua/image/cache/webp/catalog/poverbanky/joyroom-power-bank-black-20000mah/joyroom-power-bank-black-20000mah-700x700.webp",
@@ -88,7 +88,7 @@
     "name": "Розумний термостат",
     "slug": "rozumnyy-termostat",
     "category": {
-      "category_slug": "smart-home",
+      "slug": "smart-home",
       "name": "Розумний дім"
     },
     "image_url": "https://content.rozetka.com.ua/goods/images/big/174836614.jpg",
@@ -100,7 +100,7 @@
     "name": "Bluetooth колонка",
     "slug": "bluetooth-kolonka",
     "category": {
-      "category_slug": "audio",
+      "slug": "audio",
       "name": "Аудіо"
     },
     "image_url": "https://newtime.ua/upload/2023-06/portativna-kolonka-jbl-charge-5-wi-fi-black-jblcharge5wifiblk.440x.webp",
@@ -112,7 +112,7 @@
     "name": "Розумний вимикач світла",
     "slug": "rozumnyy-vymykach-svitla",
     "category": {
-      "category_slug": "smart-home",
+      "slug": "smart-home",
       "name": "Розумний дім"
     },
     "image_url": "https://homehub.com.ua/images/thumbnails/1223/1000/detailed/4/aqara-zigbee-single-light-switch-65.1000x.jpg",
@@ -124,7 +124,7 @@
     "name": "Бездротова ігрова миша",
     "slug": "bezdrotova-igrova-mysha",
     "category": {
-      "category_slug": "computer-accessories",
+      "slug": "computer-accessories",
       "name": "Комп'ютерні комплектуючі"
     },
     "image_url": "https://images.prom.ua/3575054757_w640_h640_besprovodnaya-myshka-hoco.jpg",
@@ -136,7 +136,7 @@
     "name": "Розумний замок для дверей",
     "slug": "rozumnyy-zamok-dlya-dverey",
     "category": {
-      "category_slug": "security",
+      "slug": "security",
       "name": "Безпека"
     },
     "image_url": "https://cdn.27.ua/sc--media--prod/default/10/ce/48/10ce4807-e377-4b88-bd2b-c628e5595288.jpeg",
@@ -148,7 +148,7 @@
     "name": "USB-C хаб",
     "slug": "usb-c-hub",
     "category": {
-      "category_slug": "computer-accessories",
+      "slug": "computer-accessories",
       "name": "Комп'ютерні комплектуючі"
     },
     "image_url": "https://cdn.sandberg.world/products/images/lg/136-50_lg.jpg.webp",
@@ -160,7 +160,7 @@
     "name": "Розумна світлодіодна стрічка",
     "slug": "rozumna-svitlodiodna-strichka",
     "category": {
-      "category_slug": "smart-home",
+      "slug": "smart-home",
       "name": "Розумний дім"
     },
     "image_url": "https://cdn.27.ua/sc--media--prod/default/29/9e/4b/299e4b6b-6f48-4599-9c7d-f1ff9d197ef0.jpeg",
@@ -172,7 +172,7 @@
     "name": "1080p HD Вебкамера",
     "slug": "1080p-hd-webkamera",
     "category": {
-      "category_slug": "computer-accessories",
+      "slug": "computer-accessories",
       "name": "Комп'ютерні комплектуючі"
     },
     "image_url": "https://tirex.ua/image/catalog/products/1/71/U0150771-0.jpg",
@@ -184,7 +184,7 @@
     "name": "Розумна розетка",
     "slug": "rozumna-rozetka",
     "category": {
-      "category_slug": "smart-home",
+      "slug": "smart-home",
       "name": "Розумний дім"
     },
     "image_url": "https://i.citrus.world/imgcache/size_800/uploads/shop/6/0/60884b5638f37a7479120d8ef4d7a082.jpg",
@@ -196,7 +196,7 @@
     "name": "Портативний проектор",
     "slug": "portatyvnyy-proektor",
     "category": {
-      "category_slug": "home-appliances",
+      "slug": "home-appliances",
       "name": "Домашні прилади"
     },
     "image_url": "https://cdn.27.ua/sc--media--prod/default/d6/81/7a/d6817a48-8ce1-4dcb-8028-4e1942789f20.jpg",
@@ -208,7 +208,7 @@
     "name": "Розумний робот-пилосос",
     "slug": "rozumnyy-robot-pylosos",
     "category": {
-      "category_slug": "home-appliances",
+      "slug": "home-appliances",
       "name": "Домашні прилади"
     },
     "image_url": "https://i.citrus.world/imgcache/size_800/uploads/shop/b/1/b1411463b6ef0cd3b73fe22eb1885c37.jpg",
